@@ -14,10 +14,7 @@ Sample: [JavaDoc](https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.html
 JavaDoc
 
 ## Diagrams
-Such as a class diagram.
-The markdown is ![Alt text](relative/path/to/img.png)
-For example, this image 9919.png is saved to the docs folder in my repository and the markdown is ![Sample Image](docs/9919.png)
-Sample Image
+![projectdiagram](https://user-images.githubusercontent.com/69993923/146449963-ad873ded-8b6e-4792-b9b3-35d85c864064.png)
 
 ## Getting Started
 Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes.
@@ -34,23 +31,14 @@ Feel free to make you own simply game and add it to the existing menu!
 Evan Barbur
 
 ## License
-Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. https://help.github.com/articles/licensing-a-repository/
-You have the option to choose a license when you first create your repository.
-If you need to create a license for an existing repository...
+https://github.com/EvanBarbur/COP3003Project/blob/main/LICENSE
 
-Go to your repository.
-Click on "Create new file" Button.
-Type the file name as License.txt or License.md in the input box next to your repository name, a drop down button appears towards right side.
-Choose the type of license of your choice.
-Click "Commit new file" button at the bottom (Green button) Credit https://stackoverflow.com/questions/31639059/how-to-add-license-to-an-existing-github-project
-To choose a license, see https://choosealicense.com/
-Acknowledgments
-Web sites utilized
-Classmates who helped
-Your professor or TA if they helped
-History
+## Acknowledgments
+Thank you to Professor Scott Vanselow for an amazing course and semester!
+
+## History
 Information about what has changed.
 
-Key Programming Concepts Utilized
+## Key Programming Concepts Utilized
 This section would not necessarily be in a real README.
 It is a reference for you and a place to impress potential employers with your knowledge. Identify what concepts you utilize so when you need to use them again you will know that you will find them here. Include a brief description of the concepts in your own words to help you prepare for related interview questions.
