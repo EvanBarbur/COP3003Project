@@ -4,7 +4,12 @@
 
 # Project Title
 
-My project is a small program with a collection of games to play. These game include Rock-Paper Scissors, TicTacToe, and Connect Four. This project was created by me, Evan Barbur, and I made it independently. I have worked on this project the last couple of weeks for a COP3003 class assignment at Florida Gulf Coast University. I have some experiecne in coding but mainly from what I've learned in school. I don't have much practice outside of school-releated programming.
+Minigames - A COP3003 Project
+
+## Description
+This software is a small program that is able to run a selection of minigames including Rock-Paper Scissors, TicTacToe, and Connect Four.
+
+This project was created by me, Evan Barbur, and I made it independently.
 
 ## Demonstration
 ![ur0hgYcl80](https://user-images.githubusercontent.com/69993923/146446379-fa4d04b1-a796-4d2c-a065-a552597bd1d7.gif)
@@ -23,7 +28,7 @@ Now you can run the program!
 Visual Studios 2019
 
 ## Contributing
-Feel free to make you own simply game and add it to the existing menu!
+Anyone is welcome to contribute to this project by adding your own minigames to the menu list. Improvements to current games are also accepted.
 
 ## Author
 Evan Barbur
