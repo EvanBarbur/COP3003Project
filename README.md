@@ -69,8 +69,20 @@ We welcome contributions to improve Minigames! To ensure quality and consistency
      Submit a pull request with a detailed description of your changes. Your pull request will be reviewed for adherence to these guidelines and overall quality.
 
 3. **Providing Feedback:**  
-   - For bug reports or enhancement suggestions, please use the [Issues](https://github.com/EvanBarbur/COP3003Project/issues) section.
-   - When submitting an issue, provide clear steps to reproduce any bugs and detailed information about your suggested enhancements.
+   If you encounter a bug or have a suggestion for improvement, please submit an issue on GitHub.  
+
+🔗 **Report a bug here:** [GitHub Issues](https://github.com/EvanBarbur/COP3003Project/issues)  
+
+### **How to Submit a Bug Report:**  
+1. Click on the **New Issue** button.  
+2. Choose the **Bug Report** template (if available) or describe the issue in detail.  
+3. Include the following information:  
+   - Steps to reproduce the bug.  
+   - Expected behavior vs. actual behavior.  
+   - Any error messages or screenshots.  
+4. Click **Submit** to create the issue.  
+
+Your feedback helps improve the project!
 
 Thank you for helping improve the project!
 
