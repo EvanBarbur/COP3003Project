@@ -2,9 +2,17 @@ name: CI Status Check
 
 on: [push, pull_request]
 
+permissions:
+  contents: read     # Read-only access to repository content (top-level permission)
+  issues: write      # Write access to issues (only if needed)
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write   # Only allow write for this specific job, if needed for that job
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
