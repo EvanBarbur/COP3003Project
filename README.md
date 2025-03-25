@@ -1,6 +1,6 @@
 [![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/EvanBarbur/COP3003Project/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/EvanBarbur/COP3003Project)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10316/badge)](https://www.bestpractices.dev/projects/10316)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{EvanBarbur}/{COP3003Project}/badge)](https://scorecard.dev/viewer/?uri=github.com/{EvanBarbur}/{COP3003Project})
 
 # Project Title
 
